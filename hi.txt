@@ -3,5 +3,5 @@ hi 2
 hi 3
 hi 4
 hi 5
-hi 6 master test
+hi 6 master test+hot-fix test
 hi 7
